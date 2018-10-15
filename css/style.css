@@ -1,3 +1,11 @@
-#player-list {text-align: center;
+#player-list {text-align: left;
   border: 1px solid grey;
-border-radius: 10px}
+  padding: 20px;
+border-radius: 10px;
+display: flex;}
+
+/* form {display: flex;
+justify-content: space-around;} */
+
+form-item {padding: 20px;}
+body
